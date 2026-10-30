@@ -1,0 +1,27 @@
+{
+  "valid_locales": [
+    "ar-SA",
+    "ar-EG",
+    "ar-AE",
+    "ar-KW",
+    "ar-QA",
+    "ar-BH",
+    "ar-OM",
+    "en-AE",
+    "en-SA",
+    "en-EG",
+    "en-US",
+    "x-default"
+  ],
+  "primary_dialects": {
+    "SA": "Saudi Arabia",
+    "EG": "Egypt",
+    "AE": "United Arab Emirates",
+    "KW": "Kuwait"
+  },
+  "common_errors": [
+    "ar-KSA (Invalid country code)",
+    "en-UAE (Invalid code)",
+    "ar (Missing regional fallback in multi-geo store)"
+  ]
+}
